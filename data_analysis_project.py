@@ -84,7 +84,7 @@
 
 import pandas as pd 
 import streamlit as st
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 df=pd.read_csv("./data/e_commerce_data.csv")
 
